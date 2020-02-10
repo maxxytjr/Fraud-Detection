@@ -13,7 +13,7 @@ We will take a **supervised learning** approach and train a binary classifier to
 The steps are as follows:
   * Data exploration
   * Data preprocessing, including splitting into train/test sets
-  * Defining and training a *LinearLearner* binary classifier
+  * Defining and training a Amazon SageMaker [*LinearLearner*](https://sagemaker.readthedocs.io/en/stable/linear_learner.html) binary classifier
   * Making improvements to the model (managing **class imbalance**, and optimizing model **hyperparameters**)
   * Evaluating and comparing model test performance
 
